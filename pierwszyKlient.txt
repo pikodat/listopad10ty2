@@ -1,2 +1,3 @@
 pierwszy klient
 a ja na I pracuje
+\i dodaje coś nowego
